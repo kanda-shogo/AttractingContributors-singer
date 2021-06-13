@@ -38,6 +38,7 @@ Please tell me your favorite number
 - 001
 - 15
 - 14
+- 28
 - 五千兆
 - 15
 - ３６９
@@ -45,6 +46,7 @@ Please tell me your favorite number
 - 1024
 - 417
 - 42
+
 
 
 
