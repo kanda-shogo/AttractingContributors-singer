@@ -20,6 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+
 Please tell me your favorite number
 # List of number
 - 8
@@ -32,7 +33,18 @@ Please tell me your favorite number
 - 255
 - 21
 - 24
+- 7
 - 66
+- 001
 - 15
 - 14
 - 五千兆
+- 15
+- ３６９
+- 0.5!-j√π
+- 1024
+- 417
+- 42
+
+
+
