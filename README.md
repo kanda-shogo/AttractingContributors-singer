@@ -38,6 +38,7 @@ Please tell me your favorite number
 - 001
 - 15
 - 14
+- 五千兆
 - 15
 - ３６９
 - 0.5!-j√π
