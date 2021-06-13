@@ -18,6 +18,7 @@ To complete the assignment, please do the following:
 # My Project
 Gaol - I want to know your favorite Game so please let me know!!
 
+
 Please tell me your favorite number
 # List of number
 - 8
@@ -30,7 +31,21 @@ Please tell me your favorite number
 - 255
 - 21
 - 24
+- 7
 - 66
+- 001
 - 15
 - 14
 -334
+- 28
+- 五千兆
+- 15
+- ３６９
+- 0.5!-j√π
+- 1024
+- 417
+- 42
+
+
+
+
