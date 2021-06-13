@@ -38,9 +38,11 @@ Please tell me your favorite number
 - 001
 - 15
 - 14
+- ３６９
 - 0.5!-j√π
 - 1024
 - 417
 - 42
+
 
 
